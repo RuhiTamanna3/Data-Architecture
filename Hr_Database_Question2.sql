@@ -1,0 +1,1 @@
+INSERT INTO public.job(job_title) VALUES ('Web Programmer');

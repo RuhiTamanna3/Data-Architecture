@@ -1,0 +1,1 @@
+select count(Emp_Id), Dept_Id from Emp group by dept_ID;
